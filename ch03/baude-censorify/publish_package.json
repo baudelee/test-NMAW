@@ -1,0 +1,19 @@
+{
+  "author": "Baude Lee",
+  "name": "baude-censorify",
+  "version": "0.1.1",
+  "description": "Censors words out of text",
+  "main": "baude-censortext",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/baudelee/test-NMAW/tree/master/ch03/baude-censorify"
+  },
+  "keywords": [
+    "censor",
+    "words"
+  ],
+  "dependencies": {},
+  "engines": {
+      "node": "*"
+  }
+}

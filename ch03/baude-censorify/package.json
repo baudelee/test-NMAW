@@ -1,0 +1,11 @@
+{
+  "author": "Baude Lee",
+  "name": "baude-censorify",
+  "version": "0.1.1",
+  "description": "Censors words out of text",
+  "main": "baude-censortext",
+  "dependencies": {},
+  "engines": {
+      "node": "*"
+  }
+}
